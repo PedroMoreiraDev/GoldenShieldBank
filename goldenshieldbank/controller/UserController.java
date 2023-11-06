@@ -2,7 +2,7 @@ package com.goldenshieldbank.controller;
 
 import com.goldenshieldbank.entity.dto.BankResponse;
 import com.goldenshieldbank.entity.dto.UserRequest;
-import com.goldenshieldbank.service.impl.UserService;
+import com.goldenshieldbank.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
