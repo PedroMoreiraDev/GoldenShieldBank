@@ -12,7 +12,7 @@ regras do numero da conta: o ano atual + 6 digitos aleatórios
 ![image](https://github.com/PedroMoreiraDev/GoldenShieldBank/assets/81443215/4e1f7b70-3e9d-4132-a994-4faf12d1ed3b)
 
 
-3º Haverá serviços de email notificando os usuários sobre todas as movimentações.
+3º Haverá serviços de email notificando os usuários sobre todas as movimentações utilizando o Spring Email.
 
 ![image](https://github.com/PedroMoreiraDev/GoldenShieldBank/assets/81443215/3fe4891a-281c-486a-96ed-488d5a50921f)
 
